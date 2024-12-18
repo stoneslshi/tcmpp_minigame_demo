@@ -1,0 +1,17 @@
+{
+  "customId": "T07724IR9831729JNKI",
+  "productId": "100925983",
+  "packageName": "",
+  "bundleId": "com.tencent.tmf.applet.db",
+  "material": "01A5aEyMMFTg4iWS0jmZcyqTWg/OEnr3Z+oGcMGX0zHpV4nA1hQrGjGz3ceU3fsHYqUkANEsyiR2bEdBkTClhihWkf/G7Tqxj3Fn7T/LrHobrndEQ79YTMBaEfNCZpPT3ZR+o/6XpsRCzVmuO2Ovbg8hijjmoz/bEIrE1BTyc4BPlEvyKLOVVZs+WHAjfxOKT0UeoYXc24nXG8wo+nigqQVZsiFm+t/0GYCq5IfggMwHADePhIwFc1xZi7FIpeCD/JcLu0oF4A5RQhB3B3b6x/0asGAR2pdXAxaIgt2mmA9gQK0ygDIK4ga8FMn0JrOuVIilMLzt6jpyUUC9eppzhN7oOnMwzjtoqwS0XT5+Sdj4sOLpueHjvOjyiDdMlGIYBt5Z/XTXPug6/lnKPm6v2SsPf8R60TZhmME2Jmq7vxx+FpCoiSYoxGo6UUfiHaln+oDRB0rU/5RWdeoGnWOLKBqr2WsjDdV4vCE3NZjgTeXPEUa7gBaW9NxfehE5X49wS2LLAwm73QcNbm55OJxEfbjmjlB/3Ib73/zzvvQ7HW3HQngodGgC2gfmOO9olkEuuikmkJKq3YHqEDVvMMdU1OMQ==2bf9f03109ea9563",
+  "shark": {
+    "httpUrl": "https://api-sg.tcmpp.com/",
+    "tcpHost": "MAZUTCPDOMAN",
+    "tcpPort": 0,
+    "appKey": "app-vysq9amzuq",
+    "symEnc": 1,
+    "asymEnc": 0
+  },
+  "feedback": "https://feedback-sg.tcmpp.com?region=ap-singapore&env=prod",
+  "qapmUrl": "https://qapm-app-sg.tcmpp.com"
+}
